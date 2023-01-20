@@ -15,5 +15,5 @@ Product List Task Swift App with MVVM
 	•	 Custom Animations
 	•	 Asynchronous Data Fetch
 	•	 Planning our Network Calls - API, JSON, Model
-  • Generics Networking(Custom Response)
-  •	 and many tools used
+	• 	Generics Networking(Custom Response)
+	•	 and many tools used
