@@ -1,0 +1,6 @@
+framework module Pods_Peoduct_list {
+  umbrella header "Pods-Peoduct list-umbrella.h"
+
+  export *
+  module * { export * }
+}
